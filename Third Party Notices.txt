@@ -1,0 +1,246 @@
+Microsoft grants you the right to use these script files for the sole purpose of either: 
+(i) interacting through your browser with the Microsoft website, subject to the website’s terms 
+of use; or (ii) using the files as included with a Microsoft product subject to that product’s 
+license terms. Microsoft reserves all other rights to the files not expressly granted by Microsoft, 
+whether by implication, estoppel or otherwise. The notices and licenses below are for informational 
+purposes only.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+/*!
+* SignalR 1.0.0 RC2
+* This software incorporates material from the files listed below (collectively, “Third Party Code”). 
+* Microsoft (either Microsoft Corporation or one of its affiliates) grants you the right to use 
+* this Third Party Code for educational purposes in this Microsoft Learning course, subject to the 
+* agreement between you and Microsoft.  Microsoft reserves all other rights to the Third Party Code 
+* not expressly granted by Microsoft, whether by implication, estoppel or otherwise. The notices 
+* and licenses below are for informational purposes only
+*  
+* Copyright (c) Microsoft Open Technologies, Inc.  All rights reserved.
+* 
+* Licensed under the Apache License, Version 2.0 (the "License"); you
+* may not use this file except in compliance with the License. You may
+* obtain a copy of the License at
+* 
+* http://www.apache.org/licenses/LICENSE-2.0
+* 
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+* implied. See the License for the specific language governing permissions
+* and limitations under the License.
+*
+*/
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+/*!
+* jQuery JavaScript Library v1.6.4
+* Microsoft grants you the right to use these script files for the sole purpose of either: 
+*  (i) interacting through your browser with the Microsoft website, subject to the website's terms of use; or 
+*  (ii) using the files as included with a Microsoft product subject to that product's license terms. 
+* Microsoft reserves all other rights to the files not expressly granted by Microsoft, whether by implication, 
+* estoppel or otherwise. The notices and licenses below are for informational purposes only.
+* 
+* 
+* **************************************************
+* jQuery JavaScript Library v1.6.4
+* http://jquery.com/
+* Copyright 2011, John Resig
+* Made originally available by authors under the MIT or GPL Version 2 License
+* http://jquery.org/license
+* **************************************************
+* Includes Sizzle.js
+* http://sizzlejs.com/
+* Copyright 2011, The Dojo Foundation
+* Made originally available by authors under MIT, BSD and GPL Licenses
+* ******************************************
+* Sizzle CSS Selector Engine - v1.0
+*  Copyright 2009, The Dojo Foundation
+*  Originally released by authors under the MIT, BSD, and GPL Licenses.
+*  More information: http://sizzlejs.com/
+* ************************************************
+* *** Includes jQuery Delay
+* jQuery Delay - A delay function
+* Copyright (c) 2009 Clint Helfers - chelfers(at)gmail(dot)com | http://blindsignals.com
+* Originally made available by author dual licensed under MIT and GPL.
+* Date: 7/01/2009
+* @author Clint Helfers
+* @version 1.0.0
+* http://blindsignals.com/index.php/2009/07/jquery-delay/
+* *******************************************************
+* 
+* Provided for Informational Purposes Only
+* 
+* MIT License
+* 
+* Permission is hereby granted, free of charge, to any person obtaining
+* a copy of this software and associated documentation files (the
+* "Software"), to deal in the Software without restriction, including
+* without limitation the rights to use, copy, modify, merge, publish,
+* distribute, sublicense, and/or sell copies of the Software, and to
+* permit persons to whom the Software is furnished to do so, subject to
+* the following conditions:
+* 
+* The above copyright notice and this permission notice shall be
+* included in all copies or substantial portions of the Software.
+* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+* INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+* PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE 
+* LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT 
+* OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR 
+* OTHER DEALINGS IN THE SOFTWARE.
+* 
+*/
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+/*!
+* JQueryUI.js 1.8.17
+* Microsoft grants you the right to use these script files for the sole purpose of either: 
+* (i) interacting through your browser with the Microsoft website, subject to the website's 
+* terms of use; or (ii) using the files as included with a Microsoft product subject to that 
+* product's license terms. Microsoft reserves all other rights to the files not expressly 
+* granted by Microsoft, whether by implication, estoppel or otherwise. The notices and licenses 
+* below are for informational purposes only.
+* 
+* Copyright 2010, AUTHORS.txt (http://jqueryui.com/about)
+* Originally licensed by authors under the MIT license.
+* http://docs.jquery.com/UI
+*******************************************************************
+* Includes Interface
+* // Some named colors to work with
+* // From Interface by Stefan Petre
+* // http://interface.eyecon.ro/
+* Collection originally license by authors under the MIT License.
+*******************************************************************
+* Includes Metadata
+* 
+* Metadata - jQuery plugin for parsing metadata from elements
+*
+* Copyright (c) 2006 John Resig, Yehuda Katz, J?örn Zaefferer, Paul McLanahan
+*
+* Originally licensed by authors under the MIT license:
+* http://www.opensource.org/licenses/mit-license.php
+*
+* Revision: $Id: jquery.metadata.js 4187 2007-12-16 17:15:27Z joern.zaefferer $
+*******************************************************************
+* Includes jQuery Core 1.6.2 and Sizzle
+* 
+* jQuery JavaScript Library v1.6.2
+* http://jquery.com/
+*
+* Copyright 2011, John Resig
+* Originally licensed by authors under the MIT license.
+* 
+*
+* Includes Sizzle.js
+* http://sizzlejs.com/
+* Copyright 2011, The Dojo Foundation
+* Originally released by authors under the MIT License.
+*
+* Date: Thu Jun 30 14:16:56 2011 -0400
+*******************************************************************
+* Includes jQuery Cookie
+* 
+* jQuery Cookie plugin
+*
+* Copyright (c) 2010 Klaus Hartl (stilbuero.de)
+* Originally licensed by authors under the MIT license:
+* http://www.opensource.org/licenses/mit-license.php
+*
+*******************************************************************
+* Includes jQuery QUnit
+* 
+* QUnit - A JavaScript Unit Testing Framework
+*
+* http://docs.jquery.com/QUnit
+*
+* Copyright (c) 2011 John Resig, Jörn Zaefferer
+* Originally licensed by authors under the MIT (MIT-LICENSE.txt)
+* 
+*******************************************************************
+* Includes jQuery Validate and Validation Plug-in
+*
+* // From jquery.validate.js (by joern), contributed by Scott Gonzalez: http://projects.scottsplayground.com/email_address_validation/
+* jquery.validate.js was originally distributed by the authors under the MIT license. 
+* See e.g. http://www.koders.com/javascript/fid301576DDE33C8D7B5C5313DF7B69293EA551438F.aspx?s=%22Yehuda+Katz%22, which states:
+* 
+* Form Validation: jQuery form validation plug-in v1.1
+*
+* http://bassistance.de/jquery-plugins/jquery-plugin-validation/
+*
+* Copyright (c) 2006 Jörn Zaefferer
+*
+* $Id: jquery.validate.js 2133 2007-06-21 18:50:13Z joern.zaefferer $
+*
+* Originally licensed by authors under the MIT license:
+* http://www.opensource.org/licenses/mit-license.php
+* 
+*******************************************************************
+* Includes jQuery Easing v1.3
+* 
+* jQuery Easing v1.3 - http://gsgd.co.uk/sandbox/jquery/easing/
+*
+* Uses the built in easing capabilities added In jQuery 1.1
+* to offer multiple easing options
+*
+* TERMS OF USE - jQuery Easing
+*
+* Originally open source by authors under the BSD License.
+*
+* Copyright 2008 George McGinley Smith
+* All rights reserved.
+* BSD License - for informational purposes
+* Redistribution and use in source and binary forms, with or without modification,
+* are permitted provided that the following conditions are met:
+*
+* Redistributions of source code must retain the above copyright notice, this list of
+* conditions and the following disclaimer.
+* Redistributions in binary form must reproduce the above copyright notice, this list
+* of conditions and the following disclaimer in the documentation and/or other materials
+* provided with the distribution.
+*
+* Neither the name of the author nor the names of contributors may be used to endorse
+* or promote products derived from this software without specific prior written permission.
+*
+* THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY
+* EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+* MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+* COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+* EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
+* GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED
+* AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+* NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+* OF THE POSSIBILITY OF SUCH DAMAGE.
+* 
+*******************************************************************
+* Includes Easing Equations
+*
+* TERMS OF USE - EASING EQUATIONS
+* Originally Open source under the BSD License by authors.
+*
+* Copyright 2001 Robert Penner
+* All rights reserved.
+* 
+* Provided for Informational Purposes Only
+* MIT License
+* Permission is hereby granted, free of charge, to any person obtaining a copy of this software and 
+* associated documentation files (the "Software"), to deal in the Software without restriction, 
+* including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, 
+* and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do 
+* so, subject to the following conditions:
+* The above copyright notice and this permission notice shall be included in all copies or substantial 
+* portions of the Software.
+* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT 
+* LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+* IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+* WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
+* SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*******************************************************************
+*/
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
