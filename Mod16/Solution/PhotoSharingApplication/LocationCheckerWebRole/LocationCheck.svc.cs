@@ -19,7 +19,7 @@ namespace LocationCheckerWebRole
         {
             //Set up some variables
             string results = "";
-            string key = "{Your Bing Key}";
+            string key = "AhKAh4uyjdU6kI3HWLIWHwGNXmESdMVN-NZucDRAj33_EBOZ7k53zaROduVOGJSh";
 
             try
             {

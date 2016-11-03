@@ -114,8 +114,8 @@ namespace PhotoSharingTests
         [TestMethod]
         public void Test_PhotoGallery_Int_Parameter()
         {
-            //This test checks that, when you call the _PhotoGallery action with no
-            //parameter, all the photos in the context are returned
+            //This test checks that, when you call the _PhotoGallery action with a
+            //parameter, some of the photos in the context are returned
             var context = new FakePhotoSharingContext();
             context.Photos = new[] {
                 new Photo(),

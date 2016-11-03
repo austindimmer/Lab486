@@ -5,7 +5,7 @@ var dataLayer;
 function GetMap() {
 
     //Set up the map
-    map = new Microsoft.Maps.Map(document.getElementById("mapDiv"), { credentials: "{Your Bing Key}" });
+    map = new Microsoft.Maps.Map(document.getElementById("mapDiv"), { credentials: "AhKAh4uyjdU6kI3HWLIWHwGNXmESdMVN-NZucDRAj33_EBOZ7k53zaROduVOGJSh" });
 
     //Set up the data layer where the push pins will go
     dataLayer = new Microsoft.Maps.EntityCollection();

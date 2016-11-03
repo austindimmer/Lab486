@@ -112,10 +112,10 @@
     </bindingConfiguration>
   </bindingConfigurations>
   <endpoints>
-    <endpoint name="BasicHttpBinding_ILocationCheckService" contract="LocationCheckService.ILocationCheckService" bindingType="basicHttpBinding" address="http://772e391281cb4b92bcb88ed18d725661.cloudapp.net/LocationCheck.svc" bindingConfiguration="BasicHttpBinding_ILocationCheckService">
+    <endpoint name="BasicHttpBinding_ILocationCheckService" contract="LocationCheckService.ILocationCheckService" bindingType="basicHttpBinding" address="http://280486.cloudapp.net/LocationCheck.svc" bindingConfiguration="BasicHttpBinding_ILocationCheckService">
       <properties>
         <property path="/address" isComplexType="false" isExplicitlyDefined="true" clrType="System.Uri, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          <serializedValue>http://772e391281cb4b92bcb88ed18d725661.cloudapp.net/LocationCheck.svc</serializedValue>
+          <serializedValue>http://280486.cloudapp.net/LocationCheck.svc</serializedValue>
         </property>
         <property path="/behaviorConfiguration" isComplexType="false" isExplicitlyDefined="false" clrType="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
           <serializedValue />

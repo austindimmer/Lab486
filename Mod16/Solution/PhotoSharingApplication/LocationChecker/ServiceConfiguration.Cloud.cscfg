@@ -3,7 +3,7 @@
   <Role name="LocationCheckerWebRole">
     <Instances count="1" />
     <ConfigurationSettings>
-      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=ecrecoveryvault;AccountKey=9SS20jFDQJ16ZsRVmB5DtCz/J/+Oqok9nVZhDLm8xwwbA+ApTUq5piSYaK6jABtp7BDoq3Qu65JkUhdEeSN3Bg==" />
     </ConfigurationSettings>
   </Role>
 </ServiceConfiguration>
